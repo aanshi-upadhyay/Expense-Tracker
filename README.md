@@ -1,1 +1,3 @@
 # Expense-Tracker
+Expense Tracker is a functional web application designed to help users manage their finances by tracking daily, weekly, or monthly expenses. Built using HTML, CSS, and JavaScript, it includes essential features for adding, viewing, updating, and deleting expenses, giving users full control over their financial records.
+Expense Tracker includes a valuable date-tracking feature, enabling users to log and view expenses with specific dates. This feature allows users to organize their spending chronologically, making it easier to monitor trends, analyze spending patterns over time, and manage budgets by days, weeks, or months.
